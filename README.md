@@ -1,0 +1,2 @@
+# RecyclerViewAdapterTemplate
+Baasic RecyclerView template when creating RecyclerViewAdapter
